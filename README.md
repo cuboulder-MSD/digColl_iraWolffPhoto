@@ -27,5 +27,23 @@ Geographic location(s) relevant to the item. Some coverage terms used in the col
 The institution or repository that holds the resource or where it is available: University of Colorado Boulder Special Collections Department
 ### Work Measurements
 Scale of the work.
+### Technique
+Albumen prints
+### Inscription Text
+Captions on the photographs by the creator.
+### Cultural Context
+American
+### Work Description
+Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
+### Relation
+Information that identifies other resources related to the one being described.
+### Access Condition
+Information about restrictions imposed on access to a resource.
+
+Statement in collection: The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries. Please refer to the organization that has made the Item available for more information. URI: http://rightsstatements.org/vocab/NoC-US/1.0/
+
+Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
+### Identifier ARK
+Controlled, stable link to the resource.
 
 
