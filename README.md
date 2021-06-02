@@ -45,5 +45,7 @@ Statement in collection: The organization that has made the Item available belie
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 ### Identifier ARK
 Controlled, stable link to the resource.
+## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Ira Wolff Photographic History Collection](https://archives.colorado.edu/repositories/2/resources/2445).
 
 
