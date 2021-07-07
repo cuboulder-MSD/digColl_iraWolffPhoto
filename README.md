@@ -16,7 +16,7 @@ Same as description provided above.
 ### Work Type
 A term that specifies the characteristics and general type of content of the resource. 
 
-Type terms used in this collection include: [photograph](http://vocab.getty.edu/page/aat/300046300)s; [cartes-de-visite (card photographs)](http://vocab.getty.edu/page/aat/300127141)
+Type terms used in this collection include: [photographs](http://vocab.getty.edu/page/aat/300046300); [cartes-de-visite (card photographs)](http://vocab.getty.edu/page/aat/300127141)
 ### Work Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ### Work Agent Name
