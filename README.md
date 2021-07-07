@@ -20,23 +20,35 @@ Type terms used in this collection include: [photograph](http://vocab.getty.edu/
 ### Work Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ### Work Agent Name
-Individual(s) or corporate entities that created or are associated with the work. Common names seen in the collection include: Brady's National Portrait Gallery; Charles D. Fredricks & Co.
+Individual(s) or corporate entities that created or are associated with the work. 
+
+Common names seen in the collection include: [Brady's National Portrait Gallery](http://id.loc.gov/authorities/names/n85307564); [Charles D. Fredricks & Co.](http://id.loc.gov/authorities/names/no2009002447)
 ### Work Date
-The date of creation of the resource. Date ranges include: 1850s-1930s
+The date of creation of the resource. 
+
+Date ranges include: 1850s-1930s
 ### Subject Topic
-A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: United States—History—Civil War, 1861-1865
+A term or phrase representing the primary topic(s) on which a work is focused. 
+
+Common subject terms used in this collection include: [United States—History—Civil War, 1861-1865](http://id.loc.gov/authorities/subjects/sh85140205); [Portraits](http://id.worldcat.org/fast/1072324); [Architecture](http://id.worldcat.org/fast/813346)
 ### Location Name
-Geographic location(s) relevant to the item. Some coverage terms used in the collection include: New York; Philadelphia; Venice, Italy
+Geographic location(s) relevant to the item. 
+
+Some coverage terms used in the collection include: [New York](http://id.worldcat.org/fast/1210280); [Pennsylvania--Philadelphia](http://id.worldcat.org/fast/1204170); [Italy--Venice](http://id.worldcat.org/fast/1204473); [India](http://id.worldcat.org/fast/1210276)
 ### Repository Location Name
 The institution or repository that holds the resource or where it is available: University of Colorado Boulder Special Collections Department
 ### Work Measurements
 Scale of the work.
 ### Technique
-Albumen prints
+Manner and ability with which a creator employs the technical skills of a particular art or field of endeavor. 
+
+Technique terms used in this collection include:[albumen prints](http://vocab.getty.edu/page/aat/300127121); [gelatin silver process](http://vocab.getty.edu/page/aat/300139114)
 ### Inscription Text
 Captions on the photographs by the creator.
 ### Cultural Context
-American
+The environment or situation that is relevant to the beliefs, values, and practices of the culture under study.
+
+Examples include: [American (North American)](http://vocab.getty.edu/page/aat/300107956); [Indian (South Asian)](http://vocab.getty.edu/page/aat/300018863); [Himalayan](http://vocab.getty.edu/page/aat/300018815)
 ### Work Description
 Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
 ### Relation
