@@ -42,7 +42,7 @@ Scale of the work.
 ### Technique
 Manner and ability with which a creator employs the technical skills of a particular art or field of endeavor. 
 
-Technique terms used in this collection include:[albumen prints](http://vocab.getty.edu/page/aat/300127121); [gelatin silver process](http://vocab.getty.edu/page/aat/300139114)
+Technique terms used in this collection include: [albumen prints](http://vocab.getty.edu/page/aat/300127121); [gelatin silver process](http://vocab.getty.edu/page/aat/300139114)
 ### Inscription Text
 Captions on the photographs by the creator.
 ### Cultural Context
