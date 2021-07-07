@@ -6,13 +6,17 @@ Permanent address to digital collection: [https://doi.org/10.25810/9e4g-k065](ht
 Please use the same link when sharing or citing the collection.
 ## Metadata
 ### File Name
-Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. Example: Wolff_AsiaAfricaEurope_singles_046
+Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
+
+Example: Wolff_AsiaAfricaEurope_singles_046
 ### Collection Name
 Name of the collection: Ira Wolff Photographic History Collection
 ### Collection Description
 Same as description provided above.
 ### Work Type
-A term that specifies the characteristics and general type of content of the resource. Type terms used in this collection include: photographs; cartes-de-visite (card photographs)
+A term that specifies the characteristics and general type of content of the resource. 
+
+Type terms used in this collection include: [photograph](http://vocab.getty.edu/page/aat/300046300)s; [cartes-de-visite (card photographs)](http://vocab.getty.edu/page/aat/300127141)
 ### Work Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ### Work Agent Name
